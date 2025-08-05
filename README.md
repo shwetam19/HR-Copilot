@@ -10,7 +10,7 @@ Built with [LangGraph](https://github.com/langchain-ai/langgraph), [LangSmith](h
 
 ---
 
-![System Architecture](./archi.png)
+![System Architecture](./architecture.png)
 
 </div>
 
