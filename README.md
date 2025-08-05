@@ -6,11 +6,11 @@
 
 📄 **Resume Parsing** → 🔍 **JD Analysis** → 🎯 **Candidate Ranking** → ✉️ **Email Generation** → 📆 **Google Calendar Scheduling** → 📢 **Slack Notifications**
 
-Built with [LangGraph](https://github.com/langchain-ai/langgraph), [LangSmith](https://smith.langchain.com), Gemini/OpenAI, and Streamlit.
+Built with [LangGraph](https://github.com/langchain-ai/langgraph), [LangSmith](https://smith.langchain.com), Gemini, and Streamlit.
 
 ---
 
-![System Architecture](D:\Codes\ai-agent\archi.png)
+![System Architecture](./archi.png)
 
 </div>
 
