@@ -10,7 +10,7 @@ Built with [LangGraph](https://github.com/langchain-ai/langgraph), [LangSmith](h
 
 ---
 
-![Workflow Demo](https://github.com/shwetam19/HR-Copilot/assets/preview_placeholder)
+![System Architecture](c:\Users\Shweta\Desktop\hr arcrchi.png)
 
 </div>
 
