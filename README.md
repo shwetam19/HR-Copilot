@@ -8,12 +8,12 @@
 
 Built with [LangGraph](https://github.com/langchain-ai/langgraph), [LangSmith](https://smith.langchain.com), Gemini, and Streamlit.
 
+</div>
+
 ---
 ## System Architecture
 
 ![System Architecture](./architecture.png)
-
-</div>
 
 ---
 
