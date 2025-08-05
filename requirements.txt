@@ -1,0 +1,12 @@
+langchain
+langgraph
+langsmith
+google-generativeai
+openai
+streamlit
+PyMuPDF
+pdfplumber
+pydantic
+python-dotenv
+requests
+slack_sdk
