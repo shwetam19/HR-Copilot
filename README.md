@@ -4,7 +4,7 @@
 
 **A fully autonomous, multi-agent AI workflow that streamlines the hiring pipeline**
 
-📄 **Resume Parsing** → 🔍 **JD Analysis** → 🎯 **Candidate Ranking** → ✉️ **Email Generation** → 📆 **Google Calendar Scheduling** → 📢 **Slack Notifications**
+ 🔍 **JD Analysis** + 📄 **Resume Parsing**  → 🎯 **Candidate Ranking** → ✉️ **Email Generation** → 📆 **Google Calendar Scheduling** → 📢 **Slack Notifications**
 
 Built with [LangGraph](https://github.com/langchain-ai/langgraph), [LangSmith](https://smith.langchain.com), Gemini, and Streamlit.
 
